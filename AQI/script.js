@@ -303,7 +303,7 @@ document.getElementById("toggleSidebar").addEventListener("click", function () {
     btn.style.right = "20px";
     legend.style.right = "20px";
   } else {
-    btn.style.right = "300px";
+    btn.style.right = "250px";
     legend.style.right = "320px";
   }
 });
